@@ -254,7 +254,7 @@ def main():
         ask_gemini_ai_streamlit()
 
     st.sidebar.markdown("---")
-    st.sidebar.info("Dibuat dengan ❤️ untuk memahami Termodinamika.")
-
+    st.sidebar.info("Dibuat dengan ❤️ untuk memahami Termodinamika AUUUUUAHHH.")
+    
 if __name__ == "__main__":
     main()
